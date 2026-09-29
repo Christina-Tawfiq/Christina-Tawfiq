@@ -1,16 +1,23 @@
-## Hi there 👋
+Hi, I'm Christina 👋
+Data Analyst | Mechanical Engineer — Design & Production
 
-<!--
-**Christina-Tawfiq/Christina-Tawfiq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Mechanical Engineer transitioning into Data Analytics, combining an engineering background in problem-solving and analytical thinking with practical skills in data analysis and business intelligence.
 
-Here are some ideas to get you started:
+Currently building hands-on projects using Excel, SQL, Power BI, Python, and Google Sheets.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Skills
+
+Excel • Power Query • Power Pivot • DAX • SQL • Power BI • Python • Google Sheets
+
+📊 Projects
+🏦 Loan Analysis — Excel • Power Query • Power Pivot • DAX
+📊 ALX Data Analysis — Google Sheets • SQL • Power BI
+🎓 ALX Professional Foundation
+🎓 Education & Training
+Mechanical Engineering — Design & Production
+ALX Data Analysis — 2024
+ALX Professional Foundation
+Data Analytics Training — Excel • SQL • Power BI • Python
+🔗 Connect
+
+[LinkedIn](https://www.linkedin.com/in/christina-tawfiq/)
